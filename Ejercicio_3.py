@@ -1,5 +1,5 @@
 # Ejercicio 3 - Mostrar los números pares del 100 al 1000
-# Autor: Nicolas Moreno
+# Autor: Laura Marin y Nicolas Moreno
 
 # Este programa imprime todos los números pares del 100 al 1000 y cuenta cuántos hay
 
@@ -11,3 +11,4 @@ for i in range(100, 1000):
         suma += 1
 
 print(f"Total de números pares entre 100 y 1000: {suma}")
+
