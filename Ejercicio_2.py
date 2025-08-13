@@ -1,5 +1,5 @@
 # Ejercicio 2 - Sumar los números del 1 al n
-# Autor: Nicolas Moreno
+# Autor: Laura Marin y Nicolas Moreno
 
 # Función para ingresar un número entero
 def ingresarNumero():
@@ -22,3 +22,4 @@ def sumar(n):
 n = ingresarNumero()
 resultado = sumar(n)
 print(f"La suma de los números del 1 al {n} es {resultado}")
+
