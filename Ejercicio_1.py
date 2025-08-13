@@ -1,5 +1,5 @@
 # Ejercicio 1 - Saber si un número es par o impar
-# Autor: Nicolas Moreno
+# Autor: Laura Marin y Nicolas Moreno
 
 # Función para solicitar un número entero al usuario
 def ingresarNumero():
@@ -21,3 +21,4 @@ def decidirPar(n):
 # Programa principal
 n = ingresarNumero()
 decidirPar(n)
+
