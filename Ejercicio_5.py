@@ -1,5 +1,5 @@
 # Ejercicio 5 - Ordenar cinco números de mayor a menor
-# Autor: Nicolas Moreno
+# Autor: Laura Marin y Nicolas Moreno
 
 # Este programa solicita cinco números al usuario y luego los ordena de mayor a menor
 
@@ -14,3 +14,4 @@ numeros.sort(reverse=True)
 
 # Mostramos el resultado
 print("Números ordenados de mayor a menor:", numeros)
+
