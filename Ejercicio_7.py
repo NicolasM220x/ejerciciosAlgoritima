@@ -1,5 +1,5 @@
 # Ejercicio 7 - Buscar un número en la lista y contar cuántas veces aparece
-# Autor: Nicolas Moreno
+# Autor: Laura Marin y Nicolas Moreno
 
 # Este programa genera una lista de 20 números aleatorios.
 # Solicita un número al usuario y muestra cuántas veces aparece en la lista.
@@ -21,3 +21,4 @@ if veces > 0:
     print(f"El número aparece {veces} veces")
 else:
     print("Número no encontrado")
+
