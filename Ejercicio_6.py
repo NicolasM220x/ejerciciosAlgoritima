@@ -1,5 +1,5 @@
 # Ejercicio 6 - Buscar un número en una lista de 20 números aleatorios
-# Autor: Nicolas Moreno
+# Autor: Laura Marin y Nicolas Moreno
 
 # Este programa genera una lista de 20 números aleatorios entre 1 y 100.
 # Luego solicita al usuario un número y busca si está presente en la lista.
@@ -19,3 +19,4 @@ if numero in lista:
     print(f"Número encontrado en la posición: {lista.index(numero)}")
 else:
     print("Número no encontrado")
+
