@@ -1,5 +1,5 @@
 # Ejercicio 4 - Calcular la suma de los números pares entre dos números dados
-# Autor: Nicolas Moreno
+# Autor: Laura Marin y Nicolas Moreno
 
 # Función para ingresar un número entero
 def ingresarNumero(mensaje):
@@ -32,3 +32,4 @@ if inicio > fin:
 # Se llama a la función y se muestra el resultado
 resultado = sumarPares(inicio, fin)
 print(f"La suma de los números pares entre {inicio} y {fin} es: {resultado}")
+
